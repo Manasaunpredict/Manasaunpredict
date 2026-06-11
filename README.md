@@ -67,4 +67,55 @@ I'm **Manasa**, a final-year **Electronics & Communication Engineering** student
   </a>  
   <a href="https://instagram.com/Manasaunpredict" target="_blank">  
     <
+<br>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manasaunpredict&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasaunpredict&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasaunpredict&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<br>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manasaunpredict&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+</p>
+
+<br>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manasa-royal-95b176325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Manasa_Royal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Manasaunpredict" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Manasaunpredict-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@Manasaunpredict" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@Manasaunpredict-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Manasaunpredict" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Manasaunpredict-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Manasaunpredict" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Manasaunpredict-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" />
+</p>
