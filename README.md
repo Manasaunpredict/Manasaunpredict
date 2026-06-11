@@ -59,7 +59,7 @@ I'm **Manasa**, a final-year **Electronics & Communication Engineering** student
 ## 🌐 Connect With Me  
 
 <p align="center">  
-  <a href="https://www.youtube.com/@Manasaunpredict" target="_blank">  
+  <a href="https://www.youtube.com/manaschandu123" target="_blank">  
     <img src="https://img.shields.io/badge/YouTube-%40Manasaunpredict-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />  
   </a>  
   <a href="https://medium.com/@Manasaunpredict" target="_blank">  
