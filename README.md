@@ -102,7 +102,7 @@ I'm **Manasa**, a final-year **Electronics & Communication Engineering** student
   <a href="https://www.linkedin.com/in/manasa-royal-95b176325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manasa_Royal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@Manasaunpredict" target="_blank">
+  <a href="https://www.youtube.com/manasachandu123" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Manasaunpredict-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://medium.com/@Manasaunpredict" target="_blank">
